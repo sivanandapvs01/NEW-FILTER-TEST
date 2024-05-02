@@ -433,7 +433,8 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
 
     LOGO = """
-
+BOT WORKING PROPERLY"""
+    
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
